@@ -1,0 +1,28 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl images__9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.330000 0.330000 0.330000
+map_Kd Track_Straight/images__9_.jpg
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.556863 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd Track_Straight/_1.jpg
+
+newmtl images__3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.823529 0.827451
+Ks 0.330000 0.330000 0.330000
+map_Kd Track_Straight/images__3_.jpg
+
+newmtl images__19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.388235 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd Track_Straight/images__19_.jpg
+

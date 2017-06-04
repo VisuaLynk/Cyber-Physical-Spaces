@@ -1,0 +1,27 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.501961 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd GotthardTunnelSouth2a/Google_Earth_Snapshot.jpg
+
+newmtl GotthardEntranceSouth1
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.568627 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd GotthardTunnelSouth2a/GotthardEntranceSouth1.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.870588
+Ks 0.330000 0.330000 0.330000
+
+newmtl GotthardEntranceSouth1_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.317647 0.231373
+Ks 0.330000 0.330000 0.330000
+map_Kd GotthardTunnelSouth2a/GotthardEntranceSouth1_1.jpg
+

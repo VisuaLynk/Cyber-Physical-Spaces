@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 52ce20d97c717a843a6baa882caa1360
+timeCreated: 1480123603
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID -1
+    100004: Mesh 1
+    100006: Mesh 1 1
+    100008: Mesh 1 10
+    100010: Mesh 1 11
+    100012: Mesh 1 12
+    100014: Mesh 1 13
+    100016: Mesh 1 14
+    100018: Mesh 1 15
+    100020: Mesh 1 16
+    100022: Mesh 1 17
+    100024: Mesh 1 18
+    100026: Mesh 1 19
+    100028: Mesh 1 2
+    100030: Mesh 1 20
+    100032: Mesh 1 21
+    100034: Mesh 1 22
+    100036: Mesh 1 23
+    100038: Mesh 1 24
+    100040: Mesh 1 25
+    100042: Mesh 1 26
+    100044: Mesh 1 27
+    100046: Mesh 1 28
+    100048: Mesh 1 29
+    100050: Mesh 1 3
+    100052: Mesh 1 30
+    100054: Mesh 1 31
+    100056: Mesh 1 32
+    100058: Mesh 1 33
+    100060: Mesh 1 34
+    100062: Mesh 1 35
+    100064: Mesh 1 36
+    100066: Mesh 1 37
+    100068: Mesh 1 38
+    100070: Mesh 1 39
+    100072: Mesh 1 4
+    100074: Mesh 1 40
+    100076: Mesh 1 41
+    100078: Mesh 1 42
+    100080: Mesh 1 43
+    100082: Mesh 1 44
+    100084: Mesh 1 45
+    100086: Mesh 1 5
+    100088: Mesh 1 6
+    100090: Mesh 1 7
+    100092: Mesh 1 8
+    100094: Mesh 1 9
+    400000: //RootNode
+    400002: ID -1
+    400004: Mesh 1
+    400006: Mesh 1 1
+    400008: Mesh 1 10
+    400010: Mesh 1 11
+    400012: Mesh 1 12
+    400014: Mesh 1 13
+    400016: Mesh 1 14
+    400018: Mesh 1 15
+    400020: Mesh 1 16
+    400022: Mesh 1 17
+    400024: Mesh 1 18
+    400026: Mesh 1 19
+    400028: Mesh 1 2
+    400030: Mesh 1 20
+    400032: Mesh 1 21
+    400034: Mesh 1 22
+    400036: Mesh 1 23
+    400038: Mesh 1 24
+    400040: Mesh 1 25
+    400042: Mesh 1 26
+    400044: Mesh 1 27
+    400046: Mesh 1 28
+    400048: Mesh 1 29
+    400050: Mesh 1 3
+    400052: Mesh 1 30
+    400054: Mesh 1 31
+    400056: Mesh 1 32
+    400058: Mesh 1 33
+    400060: Mesh 1 34
+    400062: Mesh 1 35
+    400064: Mesh 1 36
+    400066: Mesh 1 37
+    400068: Mesh 1 38
+    400070: Mesh 1 39
+    400072: Mesh 1 4
+    400074: Mesh 1 40
+    400076: Mesh 1 41
+    400078: Mesh 1 42
+    400080: Mesh 1 43
+    400082: Mesh 1 44
+    400084: Mesh 1 45
+    400086: Mesh 1 5
+    400088: Mesh 1 6
+    400090: Mesh 1 7
+    400092: Mesh 1 8
+    400094: Mesh 1 9
+    2300000: Mesh 1
+    2300002: Mesh 1 1
+    2300004: Mesh 1 10
+    2300006: Mesh 1 11
+    2300008: Mesh 1 12
+    2300010: Mesh 1 13
+    2300012: Mesh 1 14
+    2300014: Mesh 1 15
+    2300016: Mesh 1 16
+    2300018: Mesh 1 17
+    2300020: Mesh 1 18
+    2300022: Mesh 1 19
+    2300024: Mesh 1 2
+    2300026: Mesh 1 20
+    2300028: Mesh 1 21
+    2300030: Mesh 1 22
+    2300032: Mesh 1 23
+    2300034: Mesh 1 24
+    2300036: Mesh 1 25
+    2300038: Mesh 1 26
+    2300040: Mesh 1 27
+    2300042: Mesh 1 28
+    2300044: Mesh 1 29
+    2300046: Mesh 1 3
+    2300048: Mesh 1 30
+    2300050: Mesh 1 31
+    2300052: Mesh 1 32
+    2300054: Mesh 1 33
+    2300056: Mesh 1 34
+    2300058: Mesh 1 35
+    2300060: Mesh 1 36
+    2300062: Mesh 1 37
+    2300064: Mesh 1 38
+    2300066: Mesh 1 39
+    2300068: Mesh 1 4
+    2300070: Mesh 1 40
+    2300072: Mesh 1 41
+    2300074: Mesh 1 42
+    2300076: Mesh 1 43
+    2300078: Mesh 1 44
+    2300080: Mesh 1 45
+    2300082: Mesh 1 5
+    2300084: Mesh 1 6
+    2300086: Mesh 1 7
+    2300088: Mesh 1 8
+    2300090: Mesh 1 9
+    3300000: Mesh 1
+    3300002: Mesh 1 1
+    3300004: Mesh 1 10
+    3300006: Mesh 1 11
+    3300008: Mesh 1 12
+    3300010: Mesh 1 13
+    3300012: Mesh 1 14
+    3300014: Mesh 1 15
+    3300016: Mesh 1 16
+    3300018: Mesh 1 17
+    3300020: Mesh 1 18
+    3300022: Mesh 1 19
+    3300024: Mesh 1 2
+    3300026: Mesh 1 20
+    3300028: Mesh 1 21
+    3300030: Mesh 1 22
+    3300032: Mesh 1 23
+    3300034: Mesh 1 24
+    3300036: Mesh 1 25
+    3300038: Mesh 1 26
+    3300040: Mesh 1 27
+    3300042: Mesh 1 28
+    3300044: Mesh 1 29
+    3300046: Mesh 1 3
+    3300048: Mesh 1 30
+    3300050: Mesh 1 31
+    3300052: Mesh 1 32
+    3300054: Mesh 1 33
+    3300056: Mesh 1 34
+    3300058: Mesh 1 35
+    3300060: Mesh 1 36
+    3300062: Mesh 1 37
+    3300064: Mesh 1 38
+    3300066: Mesh 1 39
+    3300068: Mesh 1 4
+    3300070: Mesh 1 40
+    3300072: Mesh 1 41
+    3300074: Mesh 1 42
+    3300076: Mesh 1 43
+    3300078: Mesh 1 44
+    3300080: Mesh 1 45
+    3300082: Mesh 1 5
+    3300084: Mesh 1 6
+    3300086: Mesh 1 7
+    3300088: Mesh 1 8
+    3300090: Mesh 1 9
+    4300000: Mesh 1
+    4300002: Mesh 1
+    4300004: Mesh 1
+    4300006: Mesh 1
+    4300008: Mesh 1
+    4300010: Mesh 1
+    4300012: Mesh 1
+    4300014: Mesh 1
+    4300016: Mesh 1
+    4300018: Mesh 1
+    4300020: Mesh 1
+    4300022: Mesh 1
+    4300024: Mesh 1
+    4300026: Mesh 1
+    4300028: Mesh 1
+    4300030: Mesh 1
+    4300032: Mesh 1
+    4300034: Mesh 1
+    4300036: Mesh 1
+    4300038: Mesh 1
+    4300040: Mesh 1
+    4300042: Mesh 1
+    4300044: Mesh 1
+    4300046: Mesh 1
+    4300048: Mesh 1
+    4300050: Mesh 1
+    4300052: Mesh 1
+    4300054: Mesh 1
+    4300056: Mesh 1
+    4300058: Mesh 1
+    4300060: Mesh 1
+    4300062: Mesh 1
+    4300064: Mesh 1
+    4300066: Mesh 1
+    4300068: Mesh 1
+    4300070: Mesh 1
+    4300072: Mesh 1
+    4300074: Mesh 1
+    4300076: Mesh 1
+    4300078: Mesh 1
+    4300080: Mesh 1
+    4300082: Mesh 1
+    4300084: Mesh 1
+    4300086: Mesh 1
+    4300088: Mesh 1
+    4300090: Mesh 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
